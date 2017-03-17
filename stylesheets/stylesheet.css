@@ -39,9 +39,11 @@ h1 {
   font-weight: 700;
 }
 
+/*
 h1#project_title {
   text-transform: uppercase;
 }
+*/
 
 h2 {
   font-size: 32px;
