@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
+  color:#fff;
 }
 
 h1 {
@@ -293,13 +293,9 @@ header {
 }
 
 #main_content.inner {
-  background-color: #fff;
+  background-color:#6d6969;
   padding: 70px 100px;
   box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
-  -moz-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
-  -o-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
-  -ms-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
 }
 
 #footer_wrap {
